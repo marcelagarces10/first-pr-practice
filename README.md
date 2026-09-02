@@ -16,7 +16,7 @@ celsius_to_fahrenheit(37)    # -> 98.6
 - `fahrenheit_to_celsius(fahrenheit)` - convert a Fahrenheit value to Celsius.
 - `celsius_to_fahrenheit(celsius)` - convert a Celsius value to Fahrenheit.
 
-Run the script directly to recieve a couple of example conversions printed to the console:
+Run the script directly to receive a couple of example conversions printed to the console:
 
 ```bash
 python temp_converter.py
